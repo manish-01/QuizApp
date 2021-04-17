@@ -31,3 +31,15 @@
 button:hover {
   cursor:pointer;
 }
+
+.Menu, .Quiz, .EndScreen h1 {
+  color:white;
+}
+
+#nextQuestion {
+  width: 200px;
+}
+ 
+h3 {
+  color:white;
+}
